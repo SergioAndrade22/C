@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1538931019 source:/home/alumno/[OC]Genovesse-Andrade/Lista.c
+	<stdio.h>
+	<stdlib.h>
+	"Lista.h"
+
+1538924723 source:/home/alumno/[OC]Genovesse-Andrade/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1539000188 source:/home/alumno/[OC]Genovesse-Andrade/ColaCP.c
+	<stdio.h>
+	<stdlib.h>
+	"ColaCP.h"
+
+1538929764 /home/alumno/[OC]Genovesse-Andrade/ColaCP.h
+
+1539003553 source:/home/alumno/[OC]Genovesse-Andrade/Planificador.c
+	<stdio.h>
+	<stdlib.h>
+	"Lista.h"
+	"ColaCP.h"
+
+1538930992 /home/alumno/[OC]Genovesse-Andrade/Lista.h
+
+1539122537 source:/home/alumno/Proyecto Final/[OC]Genovesse-Andrade/Lista.c
+	<stdio.h>
+	<stdlib.h>
+	"Lista.h"
+
+1539123449 /home/alumno/Proyecto Final/[OC]Genovesse-Andrade/Lista.h
+
+1539125867 source:/home/alumno/Proyecto Final/[OC]Genovesse-Andrade/Planificador.c
+	<stdio.h>
+	<stdlib.h>
+	"Lista.h"
+	"ColaCP.h"
+
+1539123242 /home/alumno/Proyecto Final/[OC]Genovesse-Andrade/ColaCP.h
+
+1539125331 source:/home/alumno/Proyecto Final/[OC]Genovesse-Andrade/ColaCP.c
+	<stdio.h>
+	<stdlib.h>
+	"ColaCP.h"
+
+1539132493 source:/home/alumno/ProyectoFinal/[OC]Genovesse-Andrade/ColaCP.c
+	<stdio.h>
+	<stdlib.h>
+	"ColaCP.h"
+
+1539123242 /home/alumno/ProyectoFinal/[OC]Genovesse-Andrade/ColaCP.h
+
+1539122537 source:/home/alumno/ProyectoFinal/[OC]Genovesse-Andrade/Lista.c
+	<stdio.h>
+	<stdlib.h>
+	"Lista.h"
+
+1539123449 /home/alumno/ProyectoFinal/[OC]Genovesse-Andrade/Lista.h
+
+1539132983 source:/home/alumno/ProyectoFinal/[OC]Genovesse-Andrade/Planificador.c
+	<stdio.h>
+	<stdlib.h>
+	"Lista.h"
+	"ColaCP.h"
+
+1539132493 source:/home/alumno/ProyectoC/ColaCP.c
+	<stdio.h>
+	<stdlib.h>
+	"ColaCP.h"
+
+1539123242 /home/alumno/ProyectoC/ColaCP.h
+
+1539144037 source:/home/alumno/ProyectoC/Lista.c
+	<stdio.h>
+	<stdlib.h>
+	"Lista.h"
+
+1539123449 /home/alumno/ProyectoC/Lista.h
+
+1539144703 source:/home/alumno/ProyectoC/Planificador.c
+	<stdio.h>
+	<stdlib.h>
+	"Lista.h"
+	"ColaCP.h"
+
